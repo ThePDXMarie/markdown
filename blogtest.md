@@ -5,7 +5,7 @@ I have been to many countries and all over the United States, but my favorite pl
 
 ### Yep, that is right, _Disneyland_.
 
-##Here are my top 5 reasons why Disneyland is the best place to vacay it up:
+## Here are my top 5 reasons why Disneyland is the best place to vacay it up:
 1. All your favorite characters are waiting to see you!
 2. Did I mention the Matterhorn Macaroon?!?
 ![An image of a Matterhorn Macaroon Cookie with the Matterhorn amusement ride in background.](http://www.disboards.com/media/jolly-holiday-13.80108/full)
