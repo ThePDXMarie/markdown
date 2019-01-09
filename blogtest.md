@@ -1,9 +1,9 @@
-#My Favorite Vacation
+# My Favorite Vacation
 
 I have had the pleasure of visiting a lot of places on vacation.
 I have been to many countries and all over the United States, but my favorite place to go is **Disneyland**.
 
-###Yep, that is right, _Disneyland_.
+### Yep, that is right, _Disneyland_.
 
 ##Here are my top 5 reasons why Disneyland is the best place to vacay it up:
 1. All your favorite characters are waiting to see you!
@@ -15,4 +15,4 @@ I have been to many countries and all over the United States, but my favorite pl
 5. The Disney night parades!
 [![Photo of Minnie Mouse at the front of the Main Street Electrical Parade](https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2016/08/MSEP1280.jpg)](https://www.youtube.com/watch?v=mDGDTpAipzw)
 
-###Tell us where you like to vacation and give us your top 5 rasons why!
+### Tell us where you like to vacation and give us your top 5 rasons why!
